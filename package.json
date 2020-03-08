@@ -1,0 +1,23 @@
+{
+  "name": "circle-zindex-example",
+  "version": "1.0.0",
+  "description": "a quick example of z-index.",
+  "main": "index.js",
+  "scripts": {
+    "watch": "node -e 'require(`singlepagedevrefresh`)();'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josuerojasrojas/circle-zindex-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josuerojasrojas/circle-zindex-example/issues"
+  },
+  "homepage": "https://github.com/josuerojasrojas/circle-zindex-example#readme",
+  "devDependencies": {
+    "singlepagedevrefresh": "^1.5.1"
+  }
+}
